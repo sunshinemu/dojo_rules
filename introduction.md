@@ -1,9 +1,9 @@
 Kris works in kansas city somewhere. Javascript is my favorite right now.
-* git
-* ruby
-* java
-* c#
-* javascript
-* angularjs
-* jquery
-* sql
+*git
+*ruby
+*java
+*c#
+*javascript
+*angularjs
+*jquery
+*sql
